@@ -1,4 +1,4 @@
-### Hi there, I'm Ana Paula from Santiago del Estero, Argentina 👋
+### Hi there👋 I'm Ana Paula from Santiago del Estero, Argentina 
 
 ### I am a Full Stack Developer who is willingly to continue learning and working collaboratively
 
