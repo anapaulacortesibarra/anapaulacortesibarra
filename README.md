@@ -13,7 +13,6 @@
 * Heroku
 * Git GitHub
 
-### 📫 How to reach me: 
-email: anapaulacortesibarra@gmail.com
+### 📫 How to reach me: anapaulacortesibarra@gmail.com
 
 
